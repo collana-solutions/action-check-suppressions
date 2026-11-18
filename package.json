@@ -2,7 +2,7 @@
   "name": "@neolution-ch/action-check-suppressions",
   "version": "1.5.1",
   "description": "This action check for code analyzer suppressions and add a comment to the pull request",
-  "homepage": "https://github.com/neolution-ch/action-check-suppressions",
+  "homepage": "https://github.com/collana-solutions/action-check-suppressions",
   "license": "MIT",
   "author": "Neolution",
   "main": "dist/index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neolution-ch/action-check-suppressions"
+    "url": "git+https://github.com/collana-solutions/action-check-suppressions"
   },
   "dependencies": {
     "@actions/core": "^1.10.0",
